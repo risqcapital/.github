@@ -9,4 +9,4 @@
 
 ## Related JIRA issues
 
-* [ENG-0000]
+* ENG-0000
